@@ -43,7 +43,7 @@ To prepare your dataset, place your input files in the `data/` directory or the 
 
 A web-based interface for EMT-Kcr is available, allowing you to input protein sequences and get Kcr site predictions. Visit:
 
-[http://emt-kcr.lin-group.cn](http://emt-kcr.lin-group.cn)
+[http://eds-kcr.lin-group.cn](http://eds-kcr.lin-group.cn)
 
 - Navigate to the **TOOL** tab.
 - Input a protein sequence or upload a FASTA file.
